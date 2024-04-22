@@ -1022,7 +1022,7 @@ p {
   .f-item {
     width: calc((100% - 24px) / 2);
   }
-  @media screen and (min-width: 768px) and(max-width:1157px) {
+  @media screen and (min-width: 768px) and (max-width: 1157px) {
     .team-container {
       width: 584px;
     }
@@ -1038,7 +1038,7 @@ p {
     align-items: center;
   }
   .t-item {
-    width: calc((100% -24px) / 2);
+    width: calc((100% - 24px) / 2);
   }
   .portfolio-list {
     display: flex;
